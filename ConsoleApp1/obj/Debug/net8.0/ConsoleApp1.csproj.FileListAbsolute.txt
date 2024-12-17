@@ -1,0 +1,14 @@
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+G:\Stock_predictor\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
